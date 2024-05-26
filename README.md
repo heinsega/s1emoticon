@@ -3,7 +3,7 @@
 作为[S1论坛](https://bbs.saraba1st.com/)的麻将脸（特色表情）讨论和增减新表情的地方。
 
 ## 最新下载地址
-[https://github.com/kawaiidora/s1emoticon/releases/latest](https://github.com/kawaiidora/s1emoticon/releases/latest)
+[https://github.com/heinsega/s1emoticon/releases/latest](https://github.com/heinsega/s1emoticon/releases/latest)
 
 ## 分类
 
