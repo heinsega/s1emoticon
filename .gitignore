@@ -1,3 +1,4 @@
 publish/
 output.csv
 .idea/
+.DS_Store
